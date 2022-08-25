@@ -1,0 +1,145 @@
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\modified.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\Black.exe.config
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\Black.exe
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\Black.pdb
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\FastReport.Bars.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\FastReport.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\FastReport.Editor.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\GenCode128.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Uness\Programming\C# program\Club1\Club\bin\Debug\ThoughtWorks.QRCode.dll
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.csprojResolveAssemblyReference.cache
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.BackupForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.BaseForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.BusinessUnitForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.CustomerForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.FastReportDesigner.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.FastReportPreviewForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.LicenseForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.LoginForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.MainForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.Properties.Resources.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.SelectionForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.SettingForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.ShowCreditForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.SqlConnectionForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.UsersForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.TransactionForm.resources
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.csproj.GenerateResource.Cache
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.exe
+E:\Uness\Programming\C# program\Club1\Club\obj\Debug\Black.pdb
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\Black.exe.config
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.exe
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.pdb
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\modified.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\Black.exe
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\Black.pdb
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\FastReport.Bars.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\FastReport.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\FastReport.Editor.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\GenCode128.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Uness\Programming\C# program\Black\Black\bin\Debug\ThoughtWorks.QRCode.dll
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.BackupForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.BaseForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.BusinessUnitForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.CustomerForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.FastReportDesigner.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.FastReportPreviewForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.LicenseForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.LoginForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.MainForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.Properties.Resources.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.SelectionForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.SettingForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.ShowCreditForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.SqlConnectionForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.UsersForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.csproj.GenerateResource.Cache
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.ImportAccountForm.resources
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.ProgressForm.resources
+E:\Source Code\C# App\Black\Black\bin\Debug\Black.exe.config
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.exe
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.pdb
+E:\Source Code\C# App\Black\Black\bin\Debug\modified.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\Black.exe
+E:\Source Code\C# App\Black\Black\bin\Debug\Black.pdb
+E:\Source Code\C# App\Black\Black\bin\Debug\FastReport.Bars.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\FastReport.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\FastReport.Editor.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\GenCode128.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\ThoughtWorks.QRCode.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Source Code\C# App\Black\Black\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.BackupForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.BaseForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.BusinessUnitForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.CustomerForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.FastReportDesigner.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.FastReportPreviewForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.ImportAccountForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.LicenseForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.LoginForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.MainForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.ProgressForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.Properties.Resources.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.SelectionForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.SettingForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.ShowCreditForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.SqlConnectionForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.UsersForm.resources
+E:\Source Code\C# App\Black\Black\obj\Debug\Black.csproj.GenerateResource.Cache
+E:\Uness\Programming\C# program\Black\Black\obj\Debug\Black.csprojResolveAssemblyReference.cache
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.csprojAssemblyReference.cache
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.BackupForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.BaseForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.BusinessUnitForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.CustomerForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.FastReportDesigner.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.FastReportPreviewForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.LoginForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.MainForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.ProgressForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.Properties.Resources.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.SelectionForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.SettingForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.ShowCreditForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.SqlConnectionForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.UsersForm.resources
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.csproj.GenerateResource.cache
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.csproj.CoreCompileInputs.cache
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.exe
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.pdb
+F:\Uness\Programming\github\Black\Black\bin\Debug\modified.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\Black.exe.config
+F:\Uness\Programming\github\Black\Black\bin\Debug\Black.exe
+F:\Uness\Programming\github\Black\Black\bin\Debug\Black.pdb
+F:\Uness\Programming\github\Black\Black\bin\Debug\FastReport.Bars.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\FastReport.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\FastReport.Editor.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\GenCode128.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\Microsoft.SqlServer.Smo.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\Uness\Programming\github\Black\Black\bin\Debug\ThoughtWorks.QRCode.dll
+F:\Uness\Programming\github\Black\Black\obj\Debug\Black.csproj.CopyComplete

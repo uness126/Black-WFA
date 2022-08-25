@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="03/13/2020 21:49:14" ReportInfo.Modified="03/13/2020 23:58:35" ReportInfo.CreatorVersion="2015.1.2.0">
+  <Dictionary>
+    <TableDataSource Name="Barcode" ReferenceName="Data.Barcode" DataType="System.Int32" Enabled="true">
+      <Column Name="FirstName" DataType="System.String"/>
+      <Column Name="LastName" DataType="System.String"/>
+      <Column Name="Mobile" DataType="System.String"/>
+      <Column Name="AccountCode" DataType="System.String"/>
+      <Column Name="NationalId" DataType="System.String"/>
+      <Column Name="BarcodeImage" DataType="System.Drawing.Image, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" BindableControl="Picture"/>
+    </TableDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1" PaperWidth="50" PaperHeight="50" LeftMargin="5" TopMargin="5" RightMargin="5" BottomMargin="5" FirstPageSource="1" OtherPagesSource="1">
+    <ReportTitleBand Name="ReportTitle1" Width="151.2" Height="151.2">
+      <PictureObject Name="Picture1" Width="151.2" Height="122.85" DataColumn="Barcode.BarcodeImage"/>
+      <TextObject Name="Text1" Left="9.45" Top="122.85" Width="122.85" Height="18.9" Text="[Barcode.LastName]"/>
+    </ReportTitleBand>
+  </ReportPage>
+</Report>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="03/15/2020 04:07:35" ReportInfo.Modified="03/24/2020 18:12:36" ReportInfo.CreatorVersion="2015.1.2.0">
+  <Dictionary>
+    <TableDataSource Name="Customer" ReferenceName="Data.Customer" DataType="System.Int32" Enabled="true">
+      <Column Name="CustomerId" DataType="System.Int32"/>
+      <Column Name="ROW_NUMBER" DataType="System.Int64"/>
+      <Column Name="BusinessUnitId" DataType="System.Int32"/>
+      <Column Name="BusinessUnitName" DataType="System.String"/>
+      <Column Name="FirstName" DataType="System.String"/>
+      <Column Name="LastName" DataType="System.String"/>
+      <Column Name="Mobile" DataType="System.String"/>
+      <Column Name="AccountCode" DataType="System.String"/>
+      <Column Name="NationalId" DataType="System.String"/>
+      <Column Name="TotalCredit" DataType="System.Decimal"/>
+      <Column Name="CreditUsed" DataType="System.Decimal"/>
+      <Column Name="CreditRemain" DataType="System.Decimal"/>
+    </TableDataSource>
+    <TableDataSource Name="BusinessUnit" ReferenceName="Data.BusinessUnit" DataType="System.Int32" Enabled="true">
+      <Column Name="Name" DataType="System.String"/>
+      <Column Name="BusinessUnitId" DataType="System.Int32"/>
+    </TableDataSource>
+    <Relation Name="BusinessUnit_Customer" ParentDataSource="BusinessUnit" ChildDataSource="Customer" ParentColumns="BusinessUnitId" ChildColumns="BusinessUnitId" Enabled="true"/>
+    <Total Name="SumCredit" Expression="[Customer.TotalCredit]" Evaluator="Data1" PrintOn="ReportSummary1"/>
+    <Total Name="SumCreditUsed" Expression="[Customer.CreditUsed]" Evaluator="Data1" PrintOn="ReportSummary1"/>
+    <Total Name="SumCreditRemain" Expression="[Customer.CreditRemain]" Evaluator="Data1" PrintOn="ReportSummary1"/>
+  </Dictionary>
+  <ReportPage Name="Page1" RawPaperSize="9" LeftMargin="5" TopMargin="5" RightMargin="5" BottomMargin="5" FirstPageSource="1" OtherPagesSource="1">
+    <ReportTitleBand Name="ReportTitle1" Width="756" Height="37.8">
+      <TextObject Name="Text1" Left="9.45" Top="18.9" Width="737.1" Height="18.9" Text="[BusinessUnit.Name]" HorzAlign="Center" Font="Tahoma, 10pt"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="41.8" Width="756" Height="18.9">
+      <TextObject Name="Text3" Left="699.3" Width="47.25" Height="18.9" Border.Lines="All" Text="ردیف" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text5" Left="604.8" Width="94.5" Height="18.9" Border.Lines="All" Text="نام" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text7" Left="500.85" Width="103.95" Height="18.9" Border.Lines="All" Text="نام خانوادگی" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text9" Left="406.35" Width="94.5" Height="18.9" Border.Lines="All" Text="کد حساب" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text11" Left="311.85" Width="94.5" Height="18.9" Border.Lines="All" Text="کد ملی" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text13" Left="207.9" Width="103.95" Height="18.9" Border.Lines="All" Text="اعتبار کل" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text15" Left="103.95" Width="103.95" Height="18.9" Border.Lines="All" Text="اعتبار مصرف شده" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text17" Left="9.45" Width="94.5" Height="18.9" Border.Lines="All" Text="اعتبار باقیمانده" HorzAlign="Center" Font="Tahoma, 10pt"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="64.7" Width="756" Height="18.9" DataSource="Customer">
+      <TextObject Name="Text2" Left="699.3" Width="47.25" Height="18.9" Border.Lines="All" Text="[Row#]" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text4" Left="604.8" Width="94.5" Height="18.9" Border.Lines="All" Text="[Customer.FirstName]" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text6" Left="500.85" Width="103.95" Height="18.9" Border.Lines="All" Text="[Customer.LastName]" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text8" Left="406.35" Width="94.5" Height="18.9" Border.Lines="All" Text="[Customer.AccountCode]" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text10" Left="311.85" Width="94.5" Height="18.9" Border.Lines="All" Text="[Customer.NationalId]" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text12" Left="207.9" Width="103.95" Height="18.9" Border.Lines="All" Text="[Customer.TotalCredit]" Format="Number" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="." Format.GroupSeparator="," Format.NegativePattern="1" HorzAlign="Center" WordWrap="false" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text14" Left="103.95" Width="103.95" Height="18.9" Border.Lines="All" Text="[Customer.CreditUsed]" Format="Number" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="." Format.GroupSeparator="," Format.NegativePattern="1" HorzAlign="Center" WordWrap="false" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text16" Left="9.45" Width="94.5" Height="18.9" Border.Lines="All" Text="[Customer.CreditRemain]" Format="Number" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="." Format.GroupSeparator="," Format.NegativePattern="1" HorzAlign="Center" WordWrap="false" Font="Tahoma, 10pt"/>
+    </DataBand>
+    <ReportSummaryBand Name="ReportSummary1" Top="87.6" Width="756" Height="18.9">
+      <TextObject Name="Text18" Left="207.9" Width="103.95" Height="18.9" Border.Lines="All" Text="[SumCredit]" Format="Number" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="." Format.GroupSeparator="," Format.NegativePattern="1" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text19" Left="103.95" Width="103.95" Height="18.9" Border.Lines="All" Text="[SumCreditUsed]" Format="Number" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="." Format.GroupSeparator="," Format.NegativePattern="1" HorzAlign="Center" Font="Tahoma, 10pt"/>
+      <TextObject Name="Text20" Left="9.45" Width="94.5" Height="18.9" Border.Lines="All" Text="[SumCreditRemain]" Format="Number" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="." Format.GroupSeparator="," Format.NegativePattern="1" HorzAlign="Center" Font="Tahoma, 10pt"/>
+    </ReportSummaryBand>
+    <PageFooterBand Name="PageFooter1" Top="110.5" Width="756" Height="18.9"/>
+  </ReportPage>
+</Report>
